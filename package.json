@@ -1,0 +1,24 @@
+{
+  "name": "quantum-state",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "= <=>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jp3492/quantum-state.git"
+  },
+  "dependencies": {
+    "@types/react": "^16.8.8",
+    "react": "^16.8.4"
+  },
+  "devDependencies": {
+    "typescript": "^3.3.4000"
+  }
+}
